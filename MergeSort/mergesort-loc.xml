@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_file>
+    <file_marker column=" 1" line=" 63" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 66" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1272" >
+      <vfs_project />
+      <vfs_file>D:\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\a-except.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 66" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 65" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 66" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 64" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 65" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 66" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 88" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 57" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 63" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1272" >
+      <vfs_project />
+      <vfs_file>D:\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\a-except.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 63" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 18" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 63" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 131" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 49" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 84" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 117" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 118" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 140" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 121" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 127" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 128" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 126" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 129" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 130" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 131" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 132" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 116" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 122" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 122" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 116" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 67" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 69" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 65" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 55" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 65" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 67" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 69" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 140" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 59" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 140" >
+      <vfs_project />
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 16" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 10" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 16" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 49" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 22" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 25" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 25" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 35" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 35" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 46" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 34" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 33" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 54" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 84" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 113" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 54" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 70" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 110" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 119" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 110" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 111" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 110" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 16" >
+      <vfs_project>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\mergesort.gpr</vfs_project>
+      <vfs_file>D:\AGH - EAIIIB - INFORMATYKA\PWiR\Ada\Ada-Samples\MergeSort\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
