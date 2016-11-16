@@ -86,7 +86,7 @@ procedure main is
       left : Integer;
       right : Integer;
       kido : sort_split_ptr;
-      tmp : Integer;
+--        tmp : Integer;
       ok:boolean;
    begin
       -- Put(" sort ");
@@ -97,15 +97,11 @@ procedure main is
       end PutArray;
       -- Put_Line("Going to sort...");
       -- Put_Line(Integer'Image(arr'Length));
-      if (right - left) > 1 then
+      if (right - left) > 0 then
          -- Put_Line("Going to split");
          kido := new sort_split;
          kido.PutArrayRange(arr, left, right);
          kido.GetResult(ok);
-      elsif right - left = 1 and arr(left) > arr(right) then
-         tmp := arr(left);
-         arr(left) := arr(right);
-         arr(right) := tmp;
       end if;
       accept GetResult(ok_ret : out boolean) do
          ok_ret := true;
